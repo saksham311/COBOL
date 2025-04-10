@@ -24,6 +24,9 @@
            COMPUTE AVERAGE = SUM / 3.
            DISPLAY "HI".
 
+           DISPLAY "SAKSHAM".
+           
+
            DISPLAY "The average of the three numbers is: " AVERAGE.
 
            STOP RUN. 

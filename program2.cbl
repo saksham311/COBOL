@@ -1,4 +1,4 @@
-               IDENTIFICATION DIVISION.
+       IDENTIFICATION DIVISION.
        PROGRAM-ID. AVERAGE-CALCULATOR.
 
        ENVIRONMENT DIVISION.
@@ -22,6 +22,10 @@
 
            COMPUTE SUM = NUM1 + NUM2 + NUM3.
            COMPUTE AVERAGE = SUM / 3.
+           DISPLAY "HI".
+
+           DISPLAY "SAKSHAM".
+
 
            DISPLAY "The average of the three numbers is: " AVERAGE.
 
